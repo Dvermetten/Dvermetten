@@ -1,0 +1,296 @@
+{
+  "lastUpdated": "2026-04-03",
+  "profile": {
+    "name": "Diederick Vermetten",
+    "title": "Post-Doctoral Researcher in Natural Computing",
+    "birthDateAndPlace": "23/08/1996, Maastricht, The Netherlands",
+    "nationality": "Dutch",
+    "orcid": "https://orcid.org/0000-0003-3040-7162",
+    "github": "https://github.com/Dvermetten"
+  },
+  "about": "I am a post-doctoral researcher at Sorbonne Universite, CNRS, LIP6 working on the ERC Consolidator project DynaBBO. My research focuses on benchmarking optimization heuristics, dynamic algorithm configuration, and automated machine learning for black-box optimization.",
+  "education": [
+    {
+      "degree": "Ph.D. (Teaching PhD position), Natural Computing",
+      "institution": "Leiden University, The Netherlands",
+      "years": "01/01/2020-13/02/2025",
+      "focus": "With distinction Cum Laude. Thesis: From Benchmarking Optimization Heuristics to Dynamic Algorithm Configuration. Advisors: Prof. Thomas Back, Dr. Hao Wang, Dr. Carola Doerr (external supervisor from Sorbonne Universite)."
+    },
+    {
+      "degree": "MSc in Computer Science",
+      "institution": "Leiden University, The Netherlands",
+      "years": "01/09/2017-16/10/2019",
+      "focus": "Cum Laude."
+    },
+    {
+      "degree": "BSc Computer Science and BSc Mathematics",
+      "institution": "Leiden University, The Netherlands",
+      "years": "01/08/2014-31/08/2017",
+      "focus": "Double bachelor programme."
+    }
+  ],
+  "researchInterests": [
+    "Black-box optimization",
+    "Benchmarking methodology",
+    "Dynamic algorithm configuration",
+    "Evolutionary computation",
+    "Automated machine learning"
+  ],
+  "experience": [
+    {
+      "role": "Post-Doctoral Researcher",
+      "organization": "Sorbonne Universite, CNRS, LIP6, France",
+      "years": "01/03/2025-Present",
+      "summary": "Working on the ERC Consolidator project DynaBBO under the supervision of Carola Doerr."
+    },
+    {
+      "role": "Teaching Assistant and Software Engineer",
+      "organization": "LIACS, Leiden University, The Netherlands",
+      "years": "01/12/2018-30/11/2019",
+      "summary": "Combined role with 0.5 FTE teaching and 0.5 FTE software engineering responsibilities."
+    }
+  ],
+  "supervisionActivities": [
+    "At Leiden University, involved in supervision teams for 5 BSc theses and 10 MSc theses, including one external student at the University of St Andrews, UK. Contributions included project conception and daily supervision.",
+    "At LIP6, supervised software engineer Catalin Dinu on research activities, resulting in one published conference paper contribution, one accepted first-author conference paper, and one journal submission."
+  ],
+  "supervisionDetails": [
+    {
+      "heading": "MSc Theses",
+      "students": [
+          {
+              "name": "Ernest anmosuinck",
+              "program": "MSc Computer Science, Leiden University",
+              "years": "2024",
+            "topic": "Analyzing Subpopulations in CMA-ES."
+        },
+        {
+            "name": "Per Hermanus",
+            "program": "MSc Computer Science, Leiden University",
+            "years": "2024",
+            "topic": "Portfolio Selection in Adaptive Operator Selection for Differential Evolution using Multi-Armed Bandits"
+        },
+        {
+            "name": "Marc Boel",
+            "program": "MSc Computer Science, Leiden University",
+            "years": "2024",
+            "topic": "Online Mutation Strategy Selection in Differential Evolution through Deep Reinforcement Learning"
+        },
+        {
+            "name": "Bartosz Piaskowski",
+            "program": "MSc Computer Science, Leiden University",
+            "years": "2024",
+            "topic": "Benchmarking for Efficient Global Optimization Algorithms on Mixed-Integer Problems"
+        },
+        {
+            "name": "Jack Smith",
+            "program": "MSc Computer Science, St Andrews University",
+            "years": "2024",
+            "topic": "CMA-ES Population Size Control"
+        },
+        {
+          "name": "Haoran Yin",
+          "program": "MSc Computer Science, Leiden University",
+          "years": "2023",
+          "topic": "Landscape Analysis of CEC'22 Benchmark Problems."
+        },
+        {
+          "name": "Huilin Li",
+          "program": "MSc Computer Science, Leiden University",
+          "years": "2022",
+          "topic": "Standardizing Nature-inspired Optimization Algorithms --- a unified framework $UNIOA$ for seven swarm-based algorithms"
+        },
+        {
+            "name": "Navin Pophare",
+            "program": "MSc Computer Science, Leiden University",
+            "years": "2022",
+            "topic": "Building a Portfolio of Optimization Algorithms for Good Anytime Performance via Automated Algorithm Configuration"
+        },
+        {
+            "name": "Benjamin Steffens",
+            "program": "MSc Computer Science, Leiden University",
+            "years": "2023",
+            "topic": "Generating Inspirational Art Using Genetic Programming"
+        },
+        {
+            "name": "Dominik Schroder",
+            "program": "MSc Computer Science, Leiden University",
+            "years": "2021",
+            "topic": "Chaining of numerical black-box algorithms: warm-starting and switching points"
+        }
+    ]
+},
+    {
+      "heading": "BSc Theses",
+      "students": [
+        {
+          "name": "Martijn Halsema",
+          "program": "BSc Computer Science, Leiden University",
+          "years": "2024",
+          "topic": "A Critical Analysis of Raven Roost Optimization"
+        },
+        {
+          "name": "Petter Rijalt",
+          "program": "BSc Computer Science, Leiden University",
+          "years": "2023",
+          "topic": "Effect of Initial Sampling on short-term behaviour of Differential Evolution"
+        },
+        {
+          "name": "Rens Anderson",
+          "program": "BSc Computer Science, Leiden University",
+          "years": "2022",
+          "topic": "Investigating the difference among implementations of Particle Swarm Optimisation and Differential Evolution and their impact on empirical performance"
+        },
+        {
+          "name": "Luuk van den Nouweland",
+          "program": "BSc Computer Science, Leiden University",
+          "years": "2021",
+          "topic": "Automating the process of defining the aesthetic quality of an image "
+        },
+        {
+          "name": "Nils van den Honert",
+          "program": "BSc Computer Science, Leiden University",
+          "years": "2021",
+          "topic": "Benchmarking default implementations of pseudorandom number generators in commonly used programming languages."
+        }
+      ]
+    },
+    {
+      "heading": "Software Engineer Supervision",
+      "students": [
+        {
+          "name": "Catalin-Viorel Dinu",
+          "program": "Software Engineer, LIP6, Sorbonne Universite",
+          "years": "2025-2026",
+          "topic": "Research software engineering activities at LIP6, resulting in one published conference paper contribution, one accepted conference paper, and one journal submission."
+        }
+      ]
+    }
+  ],
+  "teachingActivities": [
+    "01/09/2019-31/06/2024: Lecturer, Natural Computing (3rd year BSc course). Responsible for half of lectures, all workgroups, and assignments in a 6 ECTS semester course.",
+    "01/01/2020-31/06/2024: Lecturer, Introduction to Machine Learning (1st year MSc course). Responsible for half of lectures, all workgroups, and assignments in a 6 ECTS semester course; also heavily involved in course design.",
+    "01/12/2018-30/11/2019: Teaching assistant for a variety of BSc and MSc courses at Leiden University."
+  ],
+  "organization": [
+    "2020-Present: Organizer of multiple competitions at GECCO conferences.",
+    "2023: Part of the online team for the EMO conference in Leiden.",
+    "2023: Co-organized the SBOX-COST workshop at GECCO.",
+    "2020: Part of the online team of PPSN in Leiden, working on hybrid conference organization."
+  ],
+  "organizationCompetitions": [
+    {
+      "name": "GECCO Competition on Benchmark Design",
+      "year": "2026",
+      "link": "https://iohprofiler.github.io/competitions/benchdesign"
+    },
+    {
+      "name": "GECCO Competition on Submodular Optimization",
+      "year": "2023-2025",
+      "link": "https://cs.adelaide.edu.au/~optlog/CompetitionESO2025.php"
+    },
+    {
+        "name": "GECCO Competition Anytime Optimization",
+        "year": "2024-2025",
+        "link": "https://iohprofiler.github.io/competitions"
+    },
+    {
+        "name": "GECCO Competition Star Discrepancy Computation",
+        "year": "2024-2025",
+        "link": "https://iohprofiler.github.io/competitions"
+    },
+    {
+        "name": "Open Optimization Competition",
+        "year": "2021-2022",
+        "link": "https://perso.lip6.fr/Carola.Doerr/OpenOptimizationCompetition2021.html"
+    }
+  ],
+  "reviewing": [
+    "19/09/2024-Present: Member of the reproducibility board of ACM Transactions on Evolutionary Learning and Optimization (TELO).",
+    "Reviewer for conferences and journals including GECCO, CEC, TEVC, ECJ, TELO, EVOSTAR, JMLR, and AutoML."
+  ],
+  "tutorialsAndInvitedPresentations": [
+    "Series of tutorials on benchmarking (focused on IOHprofiler) at GECCO and CEC.",
+    "Co-developed a tutorial series on structural bias of optimization algorithms, starting at PPSN 2024.",
+    "Invited talk in the JOLEA lecture series.",
+    "Lecturer at SIGEVO summer school in 2024 and 2025.",
+    "Presentations of peer-reviewed papers at GECCO, CEC, PPSN, FOGA, EVOSTAR, ECTA, and AutoML."
+  ],
+  "tutorialDetails": [
+    {
+      "title": "Benchmarking single- and multi-objective optimization algorithms: how to make your experimental data more valuable",
+      "venue": "GECCO",
+      "year": "2025",
+      "description": "Comparing and evaluating optimization algorithms by empirical means is an important – and probably the most commonly applied – approach to gaining insight into evolutionary computation methods. However, while our community tends to agree that generating and analyzing sound benchmarking data is far from trivial, we treat the process in a rather wasteful manner, giving little importance to a standardization of data records, data sharing, and similar. With this tutorial, we will share our experience on how to boost the efficacy of our benchmarking efforts at almost no cost using the IOHprofiler software framework and its recent extensions to anytime performance measures and multi-objective optimization. A strong focus will be put on demonstrating the ease by which IOHprofiler modules can be combined with other benchmarking and optimization toolboxes such as COCO, Nevergrad, and Pymoo. We will also discuss how benchmarking data can be more easily shared within the community and the benefits that this brings, in terms of core research contributions, but also towards more sustainable research practices in evolutionary computation."
+    },
+    {
+        "title": "Benchmarking and analyzing iterative optimization heuristics with IOHprofiler",
+        "venue": "GECCO",
+        "year": "2020-2024",
+        "description": "Comparing and evaluating optimization algorithms is an important part of evolutionary computation, and requires a robust benchmarking setup to be done well. IOHprofiler supports researchers in this task by providing an easy-to-use, interactive, and highly customizable environment for benchmarking iterative optimizers. IOHprofiler is designed as a modular benchmarking tool. The experimenter module provides easy access to common problem sets (e.g. BBOB functions) and modular logging functionality that can be easily combined with other optimization functions. The resulting logs (and logs from other platforms, e.g. COCO and Nevergrad) are fully interoperable with the IOHanalyzer, which provides access to highly interactive performance analysis, in the form of a wide array of visualizations and statistical analyses. A GUI, hosted at https://iohanalyzer.liacs.nl/ makes these analysis tools easy to access. Data from many repositories (e.g. COCO, Nevergrad) are pre-processed, such that the effort required to compare performance to existing algorithms is greatly reduced. This tutorial will introduce the key features of IOHprofiler by providing background information on benchmarking in EC and showing how this can be done using the modules of IOHprofiler. The key components will be highlighted and demonstrated by the organizers. Guided examples will be provided to highlight the many aspects of algorithm performance which can be explored using the interactive GUI."
+    },
+    {
+      "title": "Structural Bias in Optimization Algorithms",
+      "venue": "PPSN",
+      "year": "2024",
+      "description": "Tutorial introducing the concept of structural bias, its implications for optimization performance, and methods for detection and mitigation."
+    }
+  ],
+  "awardedFundingAndInvitations": [
+    "2024: Awarded funding from LUF (Leiden University Fund) for a 2-week research visit to the University of Melbourne.",
+    "2022: Awarded a SPECIES scholarship for a 3-month stay at Edinburgh Napier University.",
+    "Invited to attend three Dagstuhl workshops: Challenges in Benchmarking Optimization Heuristics (23251); Synergizing Theory and Practice of Automated Algorithm Design for Optimization (23332); Better Benchmarking Setups for Optimization (25444).",
+    "Invited to attend two Lorentz Center workshops: Benchmarking in Multi-Criteria Optimisation (BeMCO) and Benchmarked: Optimization Meets Machine Learning."
+  ],
+  "awardsAndDistinctions": [
+    "Gregorz Rozenberg award for outstanding research during the PhD (awarded by LIACS).",
+    "Nominated for the Leiden Science thesis award by LIACS.",
+    "3rd place at the NeurIPS BBO-challenge 2019 (1st place on the alternative leaderboard).",
+    "Best paper award in the ENUM track at GECCO 2023.",
+    "Outstanding student award at EVOSTAR 2023.",
+    "2nd place at the Niching competition in GECCO 2024 and 2025.",
+    "2nd place at the GNBG-II competition at CEC 2025.",
+    "Best paper award at ECTA 2024."
+  ],
+  "softwareOutputs": {
+    "coreDeveloper": [
+      {
+        "name": "IOHprofiler",
+        "url": "https://github.com/IOHprofiler",
+        "description": "Platform for analyzing and comparing iterative optimization heuristics. Across components, IOHprofiler has achieved over 500,000 downloads.",
+        "subProjects": [
+          "IOHanalyzer: https://iohanalyzer.liacs.nl/ - Web-based GUI for analysis and comparison of optimization algorithm performance and behavior.",
+          "IOHexperimenter: https://iohprofiler.github.io/IOHexperimenter/ - C++ and Python benchmarking package with robust and flexible data logging.",
+          "IOHinspector: https://iohprofiler.github.io/IOHinspector/ - Python package for local performance analysis of single- and multi-objective optimization algorithms."
+        ]
+      },
+      {
+        "name": "BIAS toolbox",
+        "url": "https://github.com/nikivanstein/BIAS",
+        "description": "Python package integrating statistical tests to detect structural bias in optimization heuristics."
+      },
+      {
+        "name": "Modular Differential Evolution",
+        "url": "https://github.com/Dvermetten/ModDE",
+        "description": "Flexible implementation of differential evolution enabling thousands of variants of the base algorithm."
+      }
+    ],
+    "contributor": [
+      {
+        "name": "Modular CMA-ES",
+        "url": "https://github.com/IOHprofiler/ModularCMAES",
+        "description": "Flexible and efficient CMA-ES implementation enabling thousands of variants and used in multiple research projects."
+      },
+      {
+        "name": "IOHxplainer",
+        "url": "https://github.com/nikivanstein/IOHxplainer",
+        "description": "Toolbox integrating explainable machine learning methodologies into black-box optimization through IOHprofiler integration."
+      },
+      {
+        "name": "LLaMEA",
+        "url": "https://github.com/XAI-liacs/LLaMEA",
+        "description": "Large language model system combining evolutionary computation principles to generate and benchmark optimization algorithms."
+      }
+    ]
+  }
+}
