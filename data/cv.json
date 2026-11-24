@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03",
+  "lastUpdated": "2026-11-24",
   "profile": {
     "name": "Diederick Vermetten",
     "title": "Post-Doctoral Researcher in Natural Computing",
@@ -52,14 +52,14 @@
   ],
   "supervisionActivities": [
     "At Leiden University, involved in supervision teams for 5 BSc theses and 10 MSc theses, including one external student at the University of St Andrews, UK. Contributions included project conception and daily supervision.",
-    "At LIP6, supervised software engineer Catalin Dinu on research activities, resulting in one published conference paper contribution, one accepted first-author conference paper, and one journal submission."
+    "At LIP6, supervised software engineer Catalin Dinu on research activities, resulting in two published conference papers (one as first author) and one journal submission."
   ],
   "supervisionDetails": [
     {
       "heading": "MSc Theses",
       "students": [
           {
-              "name": "Ernest anmosuinck",
+              "name": "Ernest Vanmosuinck",
               "program": "MSc Computer Science, Leiden University",
               "years": "2024",
             "topic": "Analyzing Subpopulations in CMA-ES."
@@ -162,14 +162,14 @@
           "name": "Catalin-Viorel Dinu",
           "program": "Software Engineer, LIP6, Sorbonne Universite",
           "years": "2025-2026",
-          "topic": "Research software engineering activities at LIP6, resulting in one published conference paper contribution, one accepted conference paper, and one journal submission."
+          "topic": "Research software engineering activities at LIP6, resulting in two published conference papers (one as first author) and one journal submission."
         }
       ]
     }
   ],
   "teachingActivities": [
-    "01/09/2019-31/06/2024: Lecturer, Natural Computing (3rd year BSc course). Responsible for half of lectures, all workgroups, and assignments in a 6 ECTS semester course.",
-    "01/01/2020-31/06/2024: Lecturer, Introduction to Machine Learning (1st year MSc course). Responsible for half of lectures, all workgroups, and assignments in a 6 ECTS semester course; also heavily involved in course design.",
+    "01/09/2019-30/06/2024: Lecturer, Natural Computing (3rd year BSc course). Responsible for half of lectures, all workgroups, and assignments in a 6 ECTS semester course.",
+    "01/01/2020-30/06/2024: Lecturer, Introduction to Machine Learning (1st year MSc course). Responsible for half of lectures, all workgroups, and assignments in a 6 ECTS semester course; also heavily involved in course design.",
     "01/12/2018-30/11/2019: Teaching assistant for a variety of BSc and MSc courses at Leiden University."
   ],
   "organization": [
@@ -206,15 +206,16 @@
     }
   ],
   "reviewing": [
-    "19/09/2024-Present: Member of the reproducibility board of ACM Transactions on Evolutionary Learning and Optimization (TELO).",
+    "2026-Present: Reproducibility Chair of ACM Transactions on Evolutionary Learning and Optimization (TELO).",
+    "19/09/2024-2026: Member of the reproducibility board of ACM Transactions on Evolutionary Learning and Optimization (TELO).",
     "Reviewer for conferences and journals including GECCO, CEC, TEVC, ECJ, TELO, EVOSTAR, JMLR, and AutoML."
   ],
   "tutorialsAndInvitedPresentations": [
     "Series of tutorials on benchmarking (focused on IOHprofiler) at GECCO and CEC.",
     "Co-developed a tutorial series on structural bias of optimization algorithms, starting at PPSN 2024.",
-    "Invited talk in the JOLEA lecture series.",
-    "Lecturer at SIGEVO summer school in 2024 and 2025.",
-    "Presentations of peer-reviewed papers at GECCO, CEC, PPSN, FOGA, EVOSTAR, ECTA, and AutoML."
+    "Invited talks in the JOLEA and IINAP lecture series.",
+    "Lecturer at SIGEVO summer school in 2024, 2025 and 2026.",
+    "Presentations of peer-reviewed papers at GECCO, CEC, PPSN, FOGA, EMO, EVOSTAR, ECTA, and AutoML."
   ],
   "tutorialDetails": [
     {
@@ -243,10 +244,11 @@
     "Invited to attend two Lorentz Center workshops: Benchmarking in Multi-Criteria Optimisation (BeMCO) and Benchmarked: Optimization Meets Machine Learning."
   ],
   "awardsAndDistinctions": [
-    "Gregorz Rozenberg award for outstanding research during the PhD (awarded by LIACS).",
+    "Grzegorz Rozenberg award for outstanding research during the PhD (awarded by LIACS).",
+    "Honorable mention for the best SIGEVO dissertation award for the PhD thesis.",
     "Nominated for the Leiden Science thesis award by LIACS.",
     "3rd place at the NeurIPS BBO-challenge 2019 (1st place on the alternative leaderboard).",
-    "Best paper award in the ENUM track at GECCO 2023.",
+    "Best paper award in the ENUM track at GECCO 2023 and the BBSR track at GECCO 2026.",
     "Outstanding student award at EVOSTAR 2023.",
     "2nd place at the Niching competition in GECCO 2024 and 2025.",
     "2nd place at the GNBG-II competition at CEC 2025.",
